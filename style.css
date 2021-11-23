@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(207, 157, 157);
+    margin-left: 120px;
+}
+
+input{
+    background: rgba(141, 181, 233, 0.13);
+    border-radius: 10px;
+    width: 150px;
+    height: 17px;
+}
